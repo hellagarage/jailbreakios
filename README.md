@@ -17,3 +17,6 @@ Some of the stuff being hosted here:
 
 
 -PhoenixPwn (iOS 9.3.5 32bit only) thanks to Siguza, tihmstar, mbazaliy, qwertyoruiop, and jk9357 --Phoenixx.ipa
+
+
+-LiberiOS (iOS 11.0-11.1.2 64bit duh, no 32bit devices support ios 11) Still waiting on Saurik to support iOS 11. thanks to Johnathan Levin --LiberiOSxxxxx.ipa
